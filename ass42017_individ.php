@@ -1,0 +1,2 @@
+
+<html>  <head>    <title>Web Society Repository</title>  </head>  <body>    <h1>Web Society Individual Member Private Repository</h1>    Welcome Web Society group member!    Here, you can access your individual private information.    <h2>Individual Private Information</h2>    <p>Enter your Web Society member ID number and member password:</p>    <form method="POST">      <p>Member ID Number: <input type="text" name="ID"></p>     <p>Member password: <input type="password" name="indpwd"></p>      <p><input type="submit" value="Log in"></p>	    </form>   </body></html>

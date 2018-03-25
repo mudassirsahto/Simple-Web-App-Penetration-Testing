@@ -6,3 +6,9 @@ By examining the application behavior and inputting the user Id and the password
 
 
 ![alt text](https://image.ibb.co/gVs3En/p1t1.png)
+
+Figure 1: Intercepted HTTP request and response using Burp Suite
+
+![alt text](https://image.ibb.co/iBvUn7/t2p1.png)
+
+For task 2, the following penetration test was conducted against the attacker who is one of authorized Members Of  society using Burp suite:

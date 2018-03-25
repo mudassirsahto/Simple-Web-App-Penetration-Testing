@@ -9,6 +9,18 @@ By examining the application behavior and inputting the user Id and the password
 
 Figure 1: Intercepted HTTP request and response using Burp Suite
 
+For task 2, the following penetration test was conducted against the attacker who is one of authorized Members Of  society using Burp suite:
+
 ![alt text](https://image.ibb.co/iBvUn7/t2p1.png)
+Figure 2: shows the response of the values being reflected back which is the member ID 1 and the session ID under the proxy tab of burp suite.
+
 
 For task 2, the following penetration test was conducted against the attacker who is one of authorized Members Of  society using Burp suite:
+
+
+![alt text](https://image.ibb.co/dcHyfS/t2p22.png)
+
+By sending this response message to the Intruder(Right click anywhere and select “Send to Intruder”), we can test against the characters that the server is filtering. From the results obtained above we can see that it allows all of the characters and does not perform any filtering even for <script> tag.
+  
+![alt text](https://image.ibb.co/dvHdEn/t2p5.png)
+  

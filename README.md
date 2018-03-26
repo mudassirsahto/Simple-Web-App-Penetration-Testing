@@ -24,3 +24,7 @@ By sending this response message to the Intruder(Right click anywhere and select
   
 ![alt text](https://image.ibb.co/dvHdEn/t2p5.png)
   
+  
+![alt text](https://image.ibb.co/hwfRKn/t2p4.png)
+
+Figure 4: XSS attack and disclosure of session cookie.
